@@ -1,6 +1,5 @@
 # Search Engine
 ## Description
-This is a milestone project for Information Retrieval course.<br>
 The search engine is composed of three parts:
 * indexer - turning scraped webpages into (partitioned) inverted indices
 * merger - merging partitions into a master index file and a complete inverted index table with tf-idf scores
